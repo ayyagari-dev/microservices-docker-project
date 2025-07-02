@@ -1,0 +1,14 @@
+# Node modules
+**/node_modules
+
+# Logs
+**/npm-debug.log
+
+# Docker files
+**/Dockerfile
+
+# .env files
+**/.env
+
+# OS specific
+.DS_Store
